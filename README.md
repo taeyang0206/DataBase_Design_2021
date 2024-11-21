@@ -9,5 +9,7 @@
 
 ### 테이블 기술서
   ![테이블기술서1](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%201.png)
-
+  ![테이블기술서2](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%202.png)
+  ![테이블기술서3](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%203.png)
+  ![테이블기술서4](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%204.png)
 
