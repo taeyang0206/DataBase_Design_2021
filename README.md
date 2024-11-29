@@ -13,3 +13,8 @@
   ![테이블기술서3](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%203.png)
   ![테이블기술서4](https://github.com/taeyang0206/DataBase_Design_2021/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B8%B0%EC%88%A0%EC%84%9C%204.png)
   
+### 팀원
+  * 김태양 : 팀장, 설계, 발표, 문서작성
+  * 최용현 : 설계, 발표, 문서작성
+  * 김승진 : 설계, 문서작성
+  * 조한웅 : 설계, 문서작성
